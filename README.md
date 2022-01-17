@@ -1,3 +1,3 @@
 HELLO
 
-These are all of the versions of my minesweeper project.
+These are all of the versions of my minesweeper schoolproject.
